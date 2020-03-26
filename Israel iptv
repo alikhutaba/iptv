@@ -1,8 +1,19 @@
 #EXTM3U
-#EXTINF:-1,כאן 11
-http://176.231.71.237:9981/stream/channelid/725328152
+#EXTINF:-1,reshet
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
+
 #EXTINF:-1,קשת 12
 http://176.231.71.237:9981/stream/channelid/898002373
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/5K5buNw.png" group-title="ISRAEL - IL",Ch.13 Reshet
+http://reshet-live-il.ctedgecdn.net/13tv-desktop/nodvr/r13_1400.m3u8
+
+#EXTINF:0,Reshet
+http://reshet207788-i.akamaihd.net/hls/live/207509/live/high.m3u8
+
+#EXTINF:0,Reshet*
+http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_1.m3u8 
+
 #EXTINF:-1,רשת 13
 http://176.231.71.237:9981/stream/channelid/806462195
 #EXTINF:-1,ערוץ 10
