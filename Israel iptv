@@ -1,51 +1,91 @@
 #EXTM3U
-#EXTINF:-1,Bet
-http://77.124.85.162:9981/stream/channelid/1171191806
-#EXTINF:-1,Ch 11 Kan
-http://77.124.85.162:9981/stream/channelid/2031928745
-#EXTINF:-1,Ch 12 Keshet
-http://77.124.85.162:9981/stream/channelid/130502540
-#EXTINF:-1,Ch 13 Reshet
-http://77.124.85.162:9981/stream/channelid/2122595820
-#EXTINF:-1,Ch 14 10
-http://77.124.85.162:9981/stream/channelid/1370477986
-#EXTINF:-1,Ch 23 Kan
-http://77.124.85.162:9981/stream/channelid/863332121
-#EXTINF:-1,Ch 99
-http://77.124.85.162:9981/stream/channelid/1331167877
-#EXTINF:-1,CLASSICAL bu
-http://77.124.85.162:9981/stream/channelid/673232408
-#EXTINF:-1,Galatz
-http://77.124.85.162:9981/stream/channelid/1585624533
-#EXTINF:-1,Galgalatz
-http://77.124.85.162:9981/stream/channelid/1794858142
-#EXTINF:-1,Gimmel
-http://77.124.85.162:9981/stream/channelid/1307097630
-#EXTINF:-1,Kan88
-http://77.124.85.162:9981/stream/channelid/788462340
-#EXTINF:-1,Kol Barama
-http://77.124.85.162:9981/stream/channelid/1104090688
-#EXTINF:-1,Kol Hai
-http://77.124.85.162:9981/stream/channelid/998636988
-#EXTINF:-1,Kol Hai Music
-http://77.124.85.162:9981/stream/channelid/1380006266
-#EXTINF:-1,Lev HaMdina
-http://77.124.85.162:9981/stream/channelid/347168830
-#EXTINF:-1,Makan
-http://77.124.85.162:9981/stream/channelid/631447822
-#EXTINF:-1,Moreshet
-http://77.124.85.162:9981/stream/channelid/1547291049
-#EXTINF:-1,Musica
-http://77.124.85.162:9981/stream/channelid/1869902964
-#EXTINF:-1,Perove radio
-http://77.124.85.162:9981/stream/channelid/1823628332
-#EXTINF:-1,pt/2gGhA7V4/{PMT:357}
-http://77.124.85.162:9981/stream/channelid/1238784288
-#EXTINF:-1,Radios
-http://77.124.85.162:9981/stream/channelid/180954872
-#EXTINF:-1,Reka
-http://77.124.85.162:9981/stream/channelid/878100921
-#EXTINF:-1,Sport TV 1
-http://77.124.85.162:9981/stream/channelid/820574530
-#EXTINF:-1,Tarbut
-http://77.124.85.162:9981/stream/channelid/884241654
+#EXTINF:-1,Almasira TV
+https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8
+#EXTINF:-1,Sharjah
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆Kuwait TV ☆▆ ▅ ▄ ▂ ▁
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
+#EXTINF:-1,Kuwait 2 TV
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/chunklist_b2400000.m3u8
+#EXTINF:-1,Al RAYAN 2 HD
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist_1080p.m3u8
+#EXTINF:-1,ALRAYAN
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist_1080p.m3u8
+#EXTINF:-1,libya wasat
+https://svs.itworkscdn.net/wtvlive/wtv/playlist.m3u8
+#EXTINF:-1,E قناه الفتح
+https://svs.itworkscdn.net/alfatehlive/fatehtv/chunks.m3u8
+#EXTINF:-1,▁ ▂ ▄ ▅ ▆☆ Syria قنوات سورية ☆▆ ▅ ▄ ▂ ▁
+https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8?DVR&v
+#EXTINF:-1,LANA plus
+https://svs.itworkscdn.net/alminbartvlive/alminbar/chunks.m3u8
+#EXTINF:-1,SYRIA PLUS
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:-1,Orient HD
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b1825000.m3u8
+#EXTINF:-1,Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8?v=
+#EXTINF:-1,Al RAYAN 2
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
+#EXTINF:-1,ALRAYAN
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+#EXTINF:-1,Kuwait TV
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/playlist.m3u8
+#EXTINF:-1,Kuwait 2
+https://svs.itworkscdn.net/ktv2live/ktv2.smil/playlist.m3u8
+#EXTINF:-1,Syria
+https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
+#EXTINF:-1,Sharjah Sports
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1,ARABIC | KTV Sports HD
+https://svs.itworkscdn.net/ktvsportslive/ksports.smil/playlist.m3u8
+#EXTINF:-1,ARABIC | OTV
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+#EXTINF:-1,ARABIC | Sharjah Kalba HD
+https://svs.itworkscdn.net/kablatvlive/kav1.smil/playlist.m3u8
+#EXTINF:-1,AR:SYR-LANA HD
+https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8
+#EXTINF:-1,Kuwait FM 103.7
+http://svs.itworkscdn.net/kuwaitfmlive/kfm/playlist.m3u8
+#EXTINF:-1,Super Station 99.7 FM
+http://svs.itworkscdn.net/ksuperstationlive/ksuper/playlist.m3u8
+#EXTINF:-1,Traditional 94.9 FM
+https://svs.itworkscdn.net/ktraditionallive/ktraditional/playlist.m3u8
+#EXTINF:-1,The Old Arabic Singing 87.9 FM
+https://svs.itworkscdn.net/koldlive/kold/playlist.m3u8
+#EXTINF:-1,OFM 93.3 FM
+https://svs.itworkscdn.net/kofmlive/kofm/playlist.m3u8
+#EXTINF:-1,Al masirah mubacher
+https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
+#EXTINF:-1,Al masira
+https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
+#EXTINF:-1,Nour Al Koddas
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+#EXTINF:-1,Nour Al Shabab
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+#EXTINF:-1,Nour Al Sharq
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+#EXTINF:-1,Nour Mariam
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+#EXTINF:-1,NourSAT
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:-1,OTV
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist_406p.m3u8
+#EXTINF:-1,Aghani
+https://svs.itworkscdn.net/aghanilive/aghanilive/playlist.m3u8
+#EXTINF:-1,Orient TV
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/playlist_1080p.m3u8
+#EXTINF:-1,Al-Sirat
+https://svs.itworkscdn.net/assiratvlive/assirat/playlist.m3u8
+#EXTINF:-1,Sharjah Sport
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8
+#EXTINF:-1,Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist_1080p.m3u8
+#EXTINF:-1,Al Wousta
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1,Sama TV
+https://svs.itworkscdn.net/samatvlive/sama.smil/playlist_1080p.m3u8
+#EXTINF:-1,Aliman TV
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+#EXTINF:-1,Sama TV
+https://svs.itworkscdn.net/samatvlive/sama.smil/playlist.m3u8
